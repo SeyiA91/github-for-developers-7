@@ -3,3 +3,8 @@
 __Fave Food:__ Breakfast Burritos
 __A Hobby:__ Playing video games
 **Fave Color:** Blue
+**Number of Siblings:** 2
+**Name of Brother:** Adetoro
+__Name of Sister:__ Ololade
+*Name of Father:* Gbadebo
+_Name of Mother:_ Folashade
