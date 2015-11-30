@@ -1,4 +1,5 @@
-- Seyi Adebayo
-- Phoenix, Az
-- Breakfast Burritos
-- Playing video games
+**Name:** Seyi Adebayo
+**City:** Phoenix, Az
+__Fave Food:__ Breakfast Burritos
+__A Hobby:__ Playing video games
+**Fave Color:** Blue
