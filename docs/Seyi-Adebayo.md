@@ -1,8 +1,8 @@
 ## Name:
 - Seyi Adebayo
-## Where I'm From:
+### Where I'm From:
 - Phoenix, Az
-## Favorite Food:
+### Favorite Food:
 - Breakfast Burritos
-## A hobby:
+### A hobby:
 - Playing video games
